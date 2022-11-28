@@ -45,7 +45,9 @@ public class Main {
 //        System.out.println(result);
 
 
-        demoRecursion(1);
+//        demoRecursion(1);
+
+        getFactorial(5);
 
     }
 
