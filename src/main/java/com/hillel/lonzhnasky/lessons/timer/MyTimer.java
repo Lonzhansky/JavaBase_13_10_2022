@@ -24,7 +24,7 @@ public class MyTimer {
         Timer timer = new Timer();
 
         timer.scheduleAtFixedRate(new TimerTask() {
-            int seconds = 10 * 60;
+            int seconds = 5 * 60;
 
             public void run() {
                 jLabel.setText(
